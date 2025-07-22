@@ -1,2 +1,2 @@
 # Mood-analysis
-Mood analysis with data from Kaggle from aplication Daylio Mood Tracker.
+Mood analysis using data from Daylio Mood Tracker app (Kaggle) in Python 🧠📈🐼. 
